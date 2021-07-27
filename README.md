@@ -4,7 +4,7 @@
 
 RSSG effectively utilizes the dependency grammar to tackle the aspect-level sentiment classification task via performing an effective search on the syntax graph for learning a better sentence representation.
 
-![model_structure](assets/model.jpg)
+![model_structure](assets/network_structure.pdf)
 
 ## Abstract
 
