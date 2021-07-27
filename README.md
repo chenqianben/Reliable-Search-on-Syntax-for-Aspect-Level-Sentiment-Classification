@@ -52,7 +52,7 @@ data
 - Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/glove.840B.300d.zip) to the `glove` folder.
 
 #### Bert embeddings
-- Download pre-trained Bert word vectors [here](https://huggingface.co/bert-base-uncased/tree/main)
+- Download pre-trained Bert word vectors [here](https://huggingface.co/bert-base-uncased/tree/main).
 - Extarct the bert_config.json、pytorch_model.bin and covab.text to the `pretrained_bert` folder.
 
 ## Usage
