@@ -79,4 +79,4 @@ python train.py -h
 
 ## Contact
 
-qianbenchen@buaa.edu.cn
+anthonychen@buaa.edu.cn
